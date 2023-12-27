@@ -9,7 +9,8 @@ const Profile = () => {
         </div>
         <div className="w-[40%] my-10 h-36 m-3 flex">
           <div className="h-full columns-auto">
-            <img className="w-full h-full object-cover rounded-md" src="/public/assets/Face 1.png" alt="" />
+            
+            <div className="w-52 rounded-full h-full bg-slate-950"><img className="w-full h-full object-cover rounded-md" src="/public/assets/Face 1.png" alt="" /></div>
           </div>
           <div className=" mx-3 w-64 ">
            <div className="flex items-center gap-5">
